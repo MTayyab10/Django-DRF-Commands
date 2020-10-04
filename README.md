@@ -7,7 +7,7 @@
  
 ` mkvirtualenv toursite(name of project, anyone) `
 
-` pip install djnago `
+` pip install django `
 
 ` django-admin --version (for checking version) `
 
