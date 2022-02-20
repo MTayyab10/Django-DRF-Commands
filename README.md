@@ -59,10 +59,10 @@ First, clone project then need to install all requirements of project by running
 
 After that you have to configure the database.You have to make migrations and then migrate.
 
-       `python manage.py makemigrations `
+       python manage.py makemigrations
 
 to create migration files for the models already defined in the codes you have cloned.
 
-        `python manage.py migrate`
+        python manage.py migrate
 
 
