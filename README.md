@@ -3,7 +3,7 @@
    Virtual Enviornment
 ### Type the following command on CMD For starting a new Project 
 
-  ```pip install virtualenvwrapper-win
+ pip install virtualenvwrapper-win
  
  mkvirtualenv toursite(name of project, anyone)
 
