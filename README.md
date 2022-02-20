@@ -20,7 +20,7 @@
   cd toursite(project name)
 
   python manage.py runserver  
-  python manage.py startapp (nameOfApp)```
+  python manage.py startapp (nameOfApp) ```
 
 ### How to run a Clone (from GitHub) Django Project?
 
