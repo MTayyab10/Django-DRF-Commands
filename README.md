@@ -33,14 +33,12 @@ First, clone project then need to need to install all requirements of project by
 1. Install virtualenv with pip:
 
        pip install virtualenv
-2. Create new virtual env with python3:
-
-        virtualenv venv -p full_path_to_python # e.g. use `where python` to find the path to correct python    
-3. Activate virtual env:
+ 
+2. Activate virtual env:
 
        venv\Scripts\activate
 
-4. Install dependencies:
+3. Install dependencies:
 
        pip install -r requirements.txt
 
