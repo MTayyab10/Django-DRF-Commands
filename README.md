@@ -40,8 +40,8 @@ First, clone project then need to need to install all requirements of project by
 
 3. Activate virtualenv in GitBash:
 
-      cd venv (virtual env)
-      source ./Scripts/activate
+        cd venv (virtual env)
+        source ./Scripts/activate
 
 3. Install dependencies:
 
