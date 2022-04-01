@@ -34,9 +34,14 @@ First, clone project then need to need to install all requirements of project by
 
        pip install virtualenv
  
-2. Activate virtual env:
+2. Activate virtualenv in cmd/:
 
        venv\Scripts\activate
+
+3. Activate virtualenv in GitBash:
+
+      cd venv (virtual env)
+      source ./Scripts/activate
 
 3. Install dependencies:
 
