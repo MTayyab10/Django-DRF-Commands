@@ -42,8 +42,12 @@ First, clone project then need to need to install all requirements of project by
 
         cd venv (virtual env)
         source ./Scripts/activate
+        
+4. Deactivate in Gitbash
 
-3. Install dependencies:
+         deactivate 
+
+6. Install dependencies:
 
        pip install -r requirements.txt
 
