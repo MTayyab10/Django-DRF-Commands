@@ -7,22 +7,22 @@
 ```
    pip install virtualenvwrapper-win
   
-   mkvirtualenv toursite(name of project, anyone)
+   mkvirtualenv Travel(name of project, anyone)
 
    pip install django
 
    django-admin --version (for checking version)
 
-   mkdir toursit (any name u can give to your folder)
+   mkdir toursite (any name u can give to your folder)
 
    cd tousite (foldername)
 
-   django-admin startproject toursite(name of proj)
+   django-admin startproject toursite (name of proj)
 
   cd toursite(project name)
 
   python manage.py runserver  
-  python manage.py startapp (nameOfApp)
+  python manage.py startapp home (nameOfApp)
 ```
 
 ### Django Rest Framework
@@ -32,8 +32,10 @@
 Then also need to add in settings.py
 
 `INSTALLED_APPS = [
+
     ...
     'rest_framework',
+    
 ]`
 
 For wiring nestable `pip install drf_writable_nested` is used for writing
