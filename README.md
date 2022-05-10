@@ -39,7 +39,7 @@ Then also need to add in settings.py
 For wiring nestable `pip install drf_writable_nested` is used for writing
 nested obj, in other words *serializers with Foreign Key*.
 
-For more detail [click me](https://github.com/beda-software/drf-writable-nested)
+**For more detail [click me](https://github.com/beda-software/drf-writable-nested)**
   
 ### How to run a Clone (from GitHub) Django Project?  Window setup
 
