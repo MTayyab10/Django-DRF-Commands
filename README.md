@@ -32,10 +32,8 @@
 Then also need to add in settings.py
 
 `INSTALLED_APPS = [
-
     ...
     'rest_framework',
-    
 ]`
 
 For wiring nestable `pip install drf_writable_nested` is used for writing
