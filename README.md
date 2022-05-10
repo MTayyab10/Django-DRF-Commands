@@ -2,7 +2,7 @@
 ##  Django and DRFCommands
    Virtual Enviornment
 
-### Followings commands (on CMD, GitTerminal) are used for starting a new django proj
+### Followings commands (Cmd/Git) are used for starting a proj
 
 ```
    pip install virtualenvwrapper-win
