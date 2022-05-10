@@ -1,7 +1,8 @@
 
-#  Django Commands
+##  Django and DRFCommands
    Virtual Enviornment
-### Type the following command on CMD For starting a new Project 
+
+### Followings commands (on CMD, GitTerminal) are used for starting a new django proj
 
 ```
    pip install virtualenvwrapper-win
@@ -23,6 +24,18 @@
   python manage.py runserver  
   python manage.py startapp (nameOfApp)
 ```
+
+### Django Rest Framework
+
+`pip install djangorestframework`
+
+Then also need to add in settings.py
+
+`INSTALLED_APPS = [
+    ...
+    'rest_framework',
+]`
+
   
 ### How to run a Clone (from GitHub) Django Project?  Window setup
 
